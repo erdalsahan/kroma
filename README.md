@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <br />
+  <br /> 
   <a href="https://kroma.network"><img alt="Kroma" src="https://github.com/kroma-network/kroma-brand-kit/raw/main/assets/images/signature/Kroma-signature.svg" width=500></a>
   <br />
   <h3><a href="https://kroma.network">Kroma</a> aims to be a New Universal ZK Rollup on Ethereum.</h3>
